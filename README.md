@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ALI-HAIDER22/ALI-HAIDER22/main/banner.png" alt="LinkedIn Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/ALI-HAIDER22/ALI-HAIDER22/main/Ali Haider.png" alt="LinkedIn Banner" width="100%" />
 </p>
 
 <h1 align="center"><strong>Hi 👋, I'm Ali Haider</strong></h1>
