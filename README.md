@@ -76,7 +76,6 @@
     <td align="center" width="100"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/><br /><strong>Seaborn</strong></td>
     <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/><br /><strong>SQLite</strong></td>
     <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/><br /><strong>Git</strong></td>
-    <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/><br /><strong>Flask</strong></td>
     <td align="center" width="100"> </td>
   </tr>
 </table>
