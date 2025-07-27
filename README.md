@@ -3,10 +3,10 @@
 </p>
 
 <h1 align="center"><strong>Hi 👋, I'm Ali Haider</strong></h1>
-<h3 align="center"><strong>A passionate AI Engineer and Frontend Developer from Pakistan</strong></h3>
+<h3 align="center"><strong>A Passionate AI Engineer from Pakistan</strong></h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ali-haider22&label=Profile%20views&color=0e75b6&style=flat" alt="ali-haider22" />
+  <img src="https://komarev.com/ghpvc/?username=ali-haider22&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
