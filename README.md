@@ -1,34 +1,104 @@
-<h1 align="center">Hi 👋, I'm Ali Haider</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-haider22&label=Profile%20views&color=0e75b6&style=flat" alt="ali-haider22" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ali-haider22" alt="ali-haider22" /></a> </p>
-
-- 🔭 I’m currently working on [Medical billing chatbot](https://github.com/ALI-HAIDER22/Medical_bililing_chatbot)
-
-- 🌱 I’m currently learning **LangGraph, CrewAI**
-
-- 👯 I’m looking to collaborate on [Medical Billing chatbot](https://github.com/ALI-HAIDER22/Medical_bililing_chatbot)
-
-- 👨‍💻 All of my projects are available at [https://github.com/ALI-HAIDER22/](https://github.com/ALI-HAIDER22/)
-
-- 💬 Ask me about **AI, ML, DeepLearning, NLP, LLM, RAG, Computer Vision**
-
-- 📫 How to reach me **alih22985@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/ALI-HAIDER22/](https://github.com/ALI-HAIDER22/)
-
-- ⚡ Fun fact **I am awkward**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://github.com/ali-haider22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://github.com/ali-haider22/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ALI-HAIDER22/ALI-HAIDER22/main/banner.png" alt="LinkedIn Banner" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<h1 align="center"><strong>Hi 👋, I'm Ali Haider</strong></h1>
+<h3 align="center"><strong>A passionate AI Engineer and Frontend Developer from Pakistan</strong></h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-haider22&show_icons=true&locale=en&layout=compact" alt="ali-haider22" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ali-haider22&label=Profile%20views&color=0e75b6&style=flat" alt="ali-haider22" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ali-haider22&" alt="ali-haider22" /></p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ali-haider22&theme=flat&no-bg=true&margin-w=5" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+
+### 🔭 <strong>Currently Working On</strong>
+- [**Medical Billing Chatbot**](https://github.com/ALI-HAIDER22/Medical_bililing_chatbot)
+
+### 🌱 <strong>Currently Learning</strong>
+- **LangGraph**, **CrewAI**, **Advanced Retrieval-Augmented Generation (RAG)**
+
+### 👯 <strong>Looking to Collaborate On</strong>
+- [**Medical Billing Chatbot**](https://github.com/ALI-HAIDER22/Medical_bililing_chatbot)
+
+### 💬 <strong>Ask Me About</strong>
+- **AI**, **Machine Learning**, **Deep Learning**, **NLP**, **LLMs**, **RAG**, **Computer Vision**
+
+### 👨‍💻 <strong>All Projects</strong>
+- [**GitHub Portfolio**](https://github.com/ALI-HAIDER22/)
+
+### 📫 <strong>Contact Me</strong>
+- **alih22985@gmail.com**
+
+### 📄 <strong>View My Resume</strong>
+- [**Here**](https://github.com/ALI-HAIDER22/)
+
+### ⚡ <strong>Fun Fact</strong>
+- I’m a little **awkward**, but always **curious** 😄
+
+---
+
+<h3 align="center"><strong>🌐 Connect With Me</strong></h3>
+<p align="center">
+  <a href="https://github.com/ali-haider22" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="GitHub" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+<h3 align="center"><strong>🛠️ Languages and Tools</strong></h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/><br /><strong>Python</strong></td>
+    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/><br /><strong>PyTorch</strong></td>
+    <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/><br /><strong>TensorFlow</strong></td>
+    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/><br /><strong>C</strong></td>
+    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/><br /><strong>C++</strong></td>
+    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/><br /><strong>MySQL</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/><br /><strong>PostgreSQL</strong></td>
+    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/><br /><strong>MongoDB</strong></td>
+    <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/><br /><strong>Postman</strong></td>
+    <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/><br /><strong>Firebase</strong></td>
+    <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/><br /><strong>OpenCV</strong></td>
+    <td align="center" width="100"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/><br /><strong>Redis</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="100"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/><br /><strong>Scikit-learn</strong></td>
+    <td align="center" width="100"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/><br /><strong>Seaborn</strong></td>
+    <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/><br /><strong>SQLite</strong></td>
+    <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/><br /><strong>Git</strong></td>
+    <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/><br /><strong>Flask</strong></td>
+    <td align="center" width="100"> </td>
+  </tr>
+</table>
+
+---
+
+<h3 align="center"><strong>📊 GitHub Stats</strong></h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ali-haider22&show_icons=true&theme=default" alt="Ali's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-haider22&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-haider22&" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <i><strong>“Code like poetry — elegant, expressive, and always improving.”</strong></i>
+</p>
